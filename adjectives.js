@@ -18,4 +18,6 @@ var adjectives = [
   'brave',
   'comfortable',
   'confident',
+  'beautiful',
+  'tremendous',
 ];
