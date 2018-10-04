@@ -16,4 +16,6 @@ var adjectives = [
   'kind',
   'gracious',
   'brave',
+  'comfortable',
+  'confident',
 ];
