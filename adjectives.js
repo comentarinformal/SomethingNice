@@ -1,19 +1,21 @@
 // Wow, this is a [____] dog!
 // That's such a [____] gesture, thank you!
-//I can’t find my most [comfortable] jeans.
-//I'm [confident] that I would make a valuable addition to your team.
-//This is the most [interesting] book I have ever read.
-//Sam is the most [handsome] boy in the whole school.
-//Josh is very [motivated], and loves doing the garden.
-//Mount Everest is the [highest] mountain in the world.
- var adjectives = [
-   
+
+var adjectives = [
   'nice',
+  'pretty',
+  'good',
+  'cool',
+  'lovely',
+  'gorgeous',
+  'graceful',
+  'handsome',
+  'sweet',
+  'splendid',
+  'enchanting',
+  'kind',
+  'gracious',
   'brave',
   'comfortable',
   'confident',
-  'interesting',
-  'handsome',
-  'motivated',
-  'highest'
 ];
