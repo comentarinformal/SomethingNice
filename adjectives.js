@@ -38,5 +38,8 @@ var adjectives = [
   'great',
   'terrific',
   'spectacular',
-  'supreme'
+  'supreme',
+  'cute',
+  'strong',
+  'helpful'
 ];
