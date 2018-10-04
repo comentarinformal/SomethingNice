@@ -29,6 +29,9 @@ var adjectives = [
   'fabulous',
   'amazing',
   'superb',
+  'spotless',
+  'smart',
+  'fastidious',
   'marvelous',
   'sublime'
 ];
