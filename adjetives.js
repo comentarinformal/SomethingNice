@@ -3,4 +3,5 @@
 
 var adjetives = [
   'nice',
+  'brave',
 ];
