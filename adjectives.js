@@ -44,7 +44,7 @@ var adjectives = [
   'spotless',
   'sublime',
   'superb',
-  'supreme'
+  'supreme',
   'sweet',
   'terrific',
   'tremendous',
