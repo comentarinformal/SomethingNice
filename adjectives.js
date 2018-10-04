@@ -44,12 +44,12 @@ var adjectives = [
   'spotless',
   'sublime',
   'superb',
-  'supreme'
+  'supreme',
   'sweet',
   'terrific',
   'tremendous',
-  'truthful'
-  'trustworthy'
+  'truthful',
+  'trustworthy',
   'vibrant',
   'wonderful',
 ];
