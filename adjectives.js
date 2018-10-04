@@ -48,6 +48,8 @@ var adjectives = [
   'sweet',
   'terrific',
   'tremendous',
+  'truthful'
+  'trustworthy'
   'vibrant',
   'wonderful',
 ];
