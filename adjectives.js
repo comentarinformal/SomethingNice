@@ -29,4 +29,6 @@ var adjectives = [
   'fabulous',
   'amazing',
   'superb',
+  'marvelous',
+  'sublime'
 ];
