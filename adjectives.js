@@ -20,4 +20,9 @@ var adjectives = [
   'confident',
   'beautiful',
   'tremendous',
+  'elegant',
+  'pleasant',
+  'neat',
+  'wonderful',
+  'fabulous',
 ];
