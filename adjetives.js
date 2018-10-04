@@ -15,4 +15,5 @@ var adjectives = [
   'enchanting',
   'kind',
   'gracious',
+  'brave',
 ];
