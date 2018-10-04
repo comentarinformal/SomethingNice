@@ -33,5 +33,6 @@ var adjectives = [
   'smart',
   'fastidious',
   'marvelous',
-  'sublime'
+  'sublime',
+  'awesome'
 ];
