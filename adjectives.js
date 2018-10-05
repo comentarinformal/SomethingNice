@@ -52,4 +52,6 @@ var adjectives = [
   'trustworthy',
   'vibrant',
   'wonderful',
+  'ugly',
+  'magnificent'
 ];
