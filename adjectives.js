@@ -7,6 +7,8 @@ var adjectives = [
   'amiable',
   'awesome',
   'beautiful',
+  'belligerent',
+  'bewildered',
   'brave',
   'comfortable',
   'confident',
