@@ -32,6 +32,7 @@ var adjectives = [
   'impressive',
   'incredible',
   'kind',
+  'likable',
   'lively',
   'lovely',
   'magnificent',
