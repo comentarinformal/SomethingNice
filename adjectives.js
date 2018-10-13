@@ -64,4 +64,5 @@ var adjectives = [
   'trustworthy',
   'vibrant',
   'wonderful',
+  'goodlooking',
 ];
