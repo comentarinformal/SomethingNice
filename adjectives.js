@@ -42,6 +42,7 @@ var adjectives = [
   'passionate',
   'perfect',
   'pleasant',
+  'pleasing',
   'pretty',
   'smart',
   'spectacular',
