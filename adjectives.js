@@ -5,6 +5,7 @@ var adjectives = [
   'adorable',
   'amazing',
   'amiable',
+  'amicable',
   'astonishing',
   'awesome',
   'beautiful',
