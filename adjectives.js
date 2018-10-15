@@ -11,6 +11,7 @@ var adjectives = [
   'beautiful',
   'brave',
   'breathtaking',
+  'charming',
   'comfortable',
   'confident',
   'cool',
