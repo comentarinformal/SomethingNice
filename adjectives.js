@@ -16,6 +16,7 @@ var adjectives = [
   'cool',
   'cute',
   'dazzling',
+  'delightful',
   'energetic',
   'enthusiastic',
   'elegant',
