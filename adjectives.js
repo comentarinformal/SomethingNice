@@ -66,5 +66,6 @@ var adjectives = [
   'wonderful',
   'goodlooking',
   'fantastic',
-  'scrumptious'
+  'scrumptious',
+  'bewitching',
 ];
