@@ -70,4 +70,5 @@ var adjectives = [
   'fantastic',
   'scrumptious',
   'bewitching',
+  'nifty',
 ];
