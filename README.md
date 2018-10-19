@@ -1,4 +1,7 @@
 # SomethingNice
+
+[![Build Status](https://travis-ci.com/comentarinformal/SomethingNice.svg?branch=master)](https://travis-ci.com/comentarinformal/SomethingNice)
+
 world's filled with enough hatred as it is. Say nice things.
 
 
