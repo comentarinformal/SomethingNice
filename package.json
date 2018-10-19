@@ -8,5 +8,8 @@
   },
   "scripts": {
     "test": "eslint adjectives.js"
+  },
+  "eslintConfig": {
+    "extends": "eslint:recommended"
   }
 }
