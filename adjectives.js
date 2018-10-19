@@ -23,6 +23,7 @@ var adjectives = [
   'elegant',
   'enchanting',
   'fabulous',
+  'fantabulous',
   'fastidious',
   'gentle',
   'good',
