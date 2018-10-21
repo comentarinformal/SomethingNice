@@ -4,9 +4,12 @@
   "author": "ci",
   "version": "0.0.1",
   "devDependencies": {
-    "jshint": "^2.6.0"
+    "eslint": "^5.7.0"
   },
   "scripts": {
-    "test": "jshint adjectives.js"
+    "test": "eslint adjectives.js"
+  },
+  "eslintConfig": {
+    "extends": "eslint:recommended"
   }
 }
