@@ -29,6 +29,7 @@ var adjectives = [
   'fantabulous',
   'fantastic',
   'fastidious',
+  'friendly',
   'gentle',
   'good',
   'goodlooking',
