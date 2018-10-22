@@ -1,7 +1,6 @@
 // Wow, this is a [____] dog!
 // That's such a [____] gesture, thank you!
 
-/* eslint no-unused-vars: "off" */
 var adjectives = [
   'adorable',
   'amazing',
