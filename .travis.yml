@@ -1,3 +1,16 @@
 language: node_js
 node_js:
- - "node"
+  - "node"
+
+before_deploy:
+  - mkdir -p dist
+  - cp index.html dist
+  - cp adjectives.js dist
+
+deploy:
+  provider: pages
+  skip-cleanup: true
+  github-token: $GITHUB_TOKEN
+  local-dir: dist
+  on:
+    branch: master
