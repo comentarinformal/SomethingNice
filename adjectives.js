@@ -59,6 +59,7 @@ var adjectives = [
   'neat',
   'nice',
   'nifty',
+  'noble',
   'noteworthy',
   'passionate',
   'perfect',
