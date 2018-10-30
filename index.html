@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>SomethingNice</title>
+    <script src="./adjectives.js"></script>
+    <style>
+      div.main { padding: 1em; font-family: sans-serif; }
+      span#adjective { color: blue; }
+      div.footer {
+        font-family: sans-serif; font-style: italic;
+        position: fixed; left: 0; bottom: 0; width: 100%; padding: 1em;
+      }
+    </style>
+  </head>
+
+  <body>
+    <div class="main">
+      <h1>
+        world's filled with enough hatred as it is. Say nice things like:
+        <span id="adjective">adorable</span>
+      </h1>
+    </div>
+
+    <div class="footer">
+      Add more adjectives <a target="_blank"
+      href="https://github.com/comentarinformal/SomethingNice">here</a>.
+    </div>
+
+    <script>
+      setInterval(function() {
+        document.querySelector('span#adjective').innerText =
+          adjectives[Math.floor(adjectives.length * Math.random())];
+      }, 1000);
+    </script>
+  </body>
+
+</html>
